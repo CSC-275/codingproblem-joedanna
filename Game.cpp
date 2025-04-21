@@ -1,4 +1,11 @@
 #include<iostream>
 #include "Game.h"
+using namespace std;
 
-// complete the implementation of the Game class here
+
+void Game ::playGame() {
+    void Player::inputPlayerNumbers();
+    void Player::printPlayerNumbers();
+}
+
+
